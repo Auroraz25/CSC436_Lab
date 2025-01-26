@@ -36,9 +36,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        // Log a debug message when onCreate is called
-        Log.d("MainActivity", "onCreate was called")
-
         setContent {
             PizzaPartyTheme {
                 Surface(
