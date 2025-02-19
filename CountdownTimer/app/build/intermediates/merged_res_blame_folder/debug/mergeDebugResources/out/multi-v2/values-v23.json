@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zybooks.countdowntimer.app-mergeDebugResources-52:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/zhangjingjing/.gradle/caches/8.9/transforms/cf0ca8717df9d79f06eba68929d8b5b8/transformed/work-runtime-2.9.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
